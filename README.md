@@ -30,7 +30,7 @@ In subsea environments, where **GNSS signals are unavailable underwater**, ROVs 
 
 ## 📸 Interface Preview
 
-![image](https://github.com/user-attachments/assets/1c92635e-91ea-47af-990c-2245c83c07d5)
+![image](https://github.com/user-attachments/assets/d982b6c3-e13a-4c0b-a73a-677260f3d92a)
 
 
 ## 🛠️ Technologies Used
