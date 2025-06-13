@@ -45,14 +45,14 @@ In subsea environments, where **GNSS signals are unavailable underwater**, ROVs 
 1. Install dependencies:
    ```bash
    pip install pyproj
-````
+   ```
 
 2. Run the application:
 
    ```bash
    python subsea_positioning.py
    ```
-````
+
 ## 📚 Coordinate Concepts
 
 * **Absolute Position (Global):**
