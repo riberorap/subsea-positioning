@@ -69,4 +69,5 @@ MIT License
 
 ## 👨‍💻 Author
 
-\ Heitor Ribeiro | Surveyor | Offshore & Subsea Positioning Solutions 🚢🌊
+[Heitor Ribeiro](https://www.linkedin.com/in/heitor-ribeiro-geophysics/)
+ | Surveyor | Offshore & Subsea Positioning Solutions 🚢🌊
