@@ -1,6 +1,6 @@
 ## 📖 README.md
 
-# 🌊 Subsea 3D Absolute Positioning Calculator
+# 🌊 Subsea 3D Absolute Positioning
 
 A Python-based application with a graphical interface (Tkinter) for calculating the **absolute geodetic position** of a subsea ROV based on its relative displacement from a vessel's known position.
 
@@ -30,7 +30,8 @@ In subsea environments, where **GNSS signals are unavailable underwater**, ROVs 
 
 ## 📸 Interface Preview
 
-![image](https://github.com/user-attachments/assets/d982b6c3-e13a-4c0b-a73a-677260f3d92a)
+![image](https://github.com/user-attachments/assets/2c3b4033-e562-4b32-be12-ad3d59ecb508)
+
 
 
 ## 🛠️ Technologies Used
